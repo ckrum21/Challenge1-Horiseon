@@ -13,6 +13,7 @@ software required to download this website:
 -Visual Studio Code
 
 ## Usage
+
 ![](assets/01-html-css-git-homework-demo.png)
 
 The code used for this website is HTML and CSS.
