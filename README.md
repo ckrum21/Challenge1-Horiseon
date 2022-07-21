@@ -13,10 +13,10 @@ software required to download this website:
 -Visual Studio Code
 
 ## Usage
-'''md
-![screenshot](![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/108544020/180317144-39df7762-089d-446d-9e39-bc458945e0f6.png)
-)
-'''
+```md
+![screenshot](assets/01-html-css-git-homework-demo.png)
+```
+
 The code used for this website is HTML and CSS.
 The code for this website displays text, photos, and symbols to present the information about marketing buisnesses online.
 Addiotnally, There are alt tags added to the photos and symbols in the code to increase accessability to individuals with disabilities.
