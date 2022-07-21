@@ -14,11 +14,12 @@ software required to download this website:
 
 ## Usage
 '''md
-![](01-html-css-git-homework-demo.png)
+![screenshot](01-html-css-git-homework-demo.png)
 '''
 The code used for this website is HTML and CSS.
 The code for this website displays text, photos, and symbols to present the information about marketing buisnesses online.
 Addiotnally, There are alt tags added to the photos and symbols in the code to increase accessability to individuals with disabilities.
 
 ##Credits
+
 Chelsea Krum
