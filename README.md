@@ -9,8 +9,8 @@ Link to website: https://ckrum21.github.io/Challenge1-Horiseon/
 Install this website by cloning the code to your local device.
 
 software required to download this website:
--GitBash or other terminal
--Visual Studio Code
+*GitBash or other terminal
+*Visual Studio Code
 
 ## Usage
 
