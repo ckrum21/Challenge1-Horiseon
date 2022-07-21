@@ -14,7 +14,7 @@ software required to download this website:
 
 ## Usage
 ```md
-![screenshot](assets/01-html-css-git-homework-demo.png)
+![screenshot](assets/images/01-html-css-git-homework-demo.png)
 ```
 
 The code used for this website is HTML and CSS.
